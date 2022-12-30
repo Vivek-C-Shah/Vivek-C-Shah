@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivek Chirag Shah.
-- 👀 Wanna be a GEEK.
+- 👀 Wanna be MERNStack Backend Developer.
 - 🌱 I’m currently learning JavaScript.
 
 <!---
