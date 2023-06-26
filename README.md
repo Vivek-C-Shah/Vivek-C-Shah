@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Vivek Chirag Shah](https://shhh_vivek.bio.link).
+- 👋 Hi, I’m [Vivek Chirag Shah](bento.me/vivekshah).
 - 👀 Wanna be MERNStack Backend Developer.
 - 🌱 I’m currently learning JavaScript.
 
