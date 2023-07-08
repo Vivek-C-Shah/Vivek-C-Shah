@@ -25,7 +25,7 @@
 ## 🤖 My Website
 
 <p align="center">
-  <a href="https://the-cipher-vivek.me/"><img src="https://img.shields.io/badge/Website-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139" alt="Website" height=25px, width=160px /></a>
+  <a href="https://the-cipher-vivek.me/"><img src="https://img.shields.io/badge/Website-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139" alt="Website" height=50px, width=160px /></a>
 
 </p>
 
