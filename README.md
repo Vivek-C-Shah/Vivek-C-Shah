@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Vivek Shah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = images\about_me.gif width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src= images\Right_Side.gif width = 250px></picture>
 <br><br>
 
 - 🔭 I’m currently working on MERN Stack.
@@ -16,7 +16,16 @@
   <br>
   <p align="center">
 
-    <img src="https://visitcount.itsvg.in/api?id=vivek-c-shah&icon=0&color=0" alt="Vivek Shah" height=25px, width=160px/>
+    <img src="https://visitcount.itsvg.in/api?id=vivek-c-shah&icon=0&color=0" alt="The-Cipher-Vivek" height=25px, width=160px/>
+
+</p>
+
+<!-- add only website id here -->
+
+## 🤖 My Website
+
+<p align="center">
+  <a href="https://the-cipher-vivek.me/"><img src="https://img.shields.io/badge/Website-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139" alt="Website"/></a>
 
 </p>
 
@@ -55,5 +64,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align = "center">
-	<img src = github-contribution-grid-snake.svg alt = "Snake Game"/>
+	<img src = images\github-contribution-grid-snake.svg alt = "Snake Game"/>
 </p>
