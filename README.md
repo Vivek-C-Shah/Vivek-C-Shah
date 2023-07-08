@@ -25,20 +25,21 @@
 ## 🤖 My Website
 
 <p align="center">
-  <a href="https://the-cipher-vivek.me/"><img src="https://img.shields.io/badge/Website-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139" alt="Website"/></a>
+  <a href="https://the-cipher-vivek.me/"><img src="https://img.shields.io/badge/Website-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139" alt="Website" height=25px, width=160px /></a>
 
 </p>
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shhh_vivek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/the-cipher-vivek) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ShVivek25)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/the-cipher-vivek) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shhh_vivek) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ShVivek25)
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
   <a href="https://codeforces.com/profile/VivekShah02"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 	<a href="https://www.codechef.com/users/vivekshah02"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://auth.geeksforgeeks.org/user/vivekchirakmhq/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="GeeksForGeeks" width="100" height="50">
+	<a href="https://auth.geeksforgeeks.org/user/vivekchirakmhq/" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" alt="GeeksForGeeks" width="100" height="50"></a>
+  <a href="https://atcoder.jp/users/VivekShah"><img src="https://user-images.githubusercontent.com/63050133/151978916-3b2ea906-152e-4e09-b2ed-250c08498b6d.png" width = "60" height = "60"alt="AtCoder"/></a>
 </p>
 
 # 💻 Tech Stack:
