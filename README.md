@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi , I'm Vivek Shah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><img src = images\about_me.gif width = 50px></picture> About me
+## <picture><img src = "https://raw.githubusercontent.com/Vivek-C-Shah/Vivek-C-Shah/main/images/about_me.gif" width = 50px></picture> About me
 
-<picture> <img align="right" src= images\Right_Side.gif width = 250px></picture>
+<picture> <img align="right" src= "https://raw.githubusercontent.com/Vivek-C-Shah/Vivek-C-Shah/main/images/Right_Side.gif" width = 250px></picture>
 <br><br>
 
 - 🔭 I’m currently working on MERN Stack.
@@ -67,5 +67,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align = "center">
-	<img src = images\github-contribution-grid-snake.svg alt = "Snake Game"/>
+	<img src = "https://raw.githubusercontent.com/Vivek-C-Shah/Vivek-C-Shah/main/images/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
