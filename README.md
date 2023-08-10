@@ -51,7 +51,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vivek-c-shah&theme=dark)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=vivek-c-shah&show_icons=true&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-c-shah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=html,css)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-c-shah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=css)
 
 ## 🏆 GitHub Trophies
 
