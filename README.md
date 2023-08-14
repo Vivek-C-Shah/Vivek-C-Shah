@@ -62,6 +62,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=vivek-c-shah&limit=6&theme=dark&count_private=true&show_icons=true&layout=compact&hide_border=false&hide_title=false&hide_rank=false&card_width=450)
