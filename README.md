@@ -66,5 +66,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 
 <p align = "center">
-	<img src = "https://gist.githubusercontent.com/Vivek-C-Shah/3f56e18e131f4995350c93d4e6db8bc8/raw/c3e8eb5e116193a05a055e43ac89006570d7928e/Snake.svg" alt = "Snake Game"/>
+	<img src = "https://gist.githubusercontent.com/Vivek-C-Shah/20c1560ce1676ad17eeb7c5dc9786dcc/raw/3d3dc438075a3b8834b9c25eef9ca9531ff669c9/GitSnake.svg" alt = "Snake Game"/>
 </p>
