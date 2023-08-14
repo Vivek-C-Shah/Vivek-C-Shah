@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi , I'm Vivek Shah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+[![Vivek Shah](https://readme-typing-svg.demolab.com/?lines=Error+999:+Code+Failed+Successfully!!;Error+404:+Error+not+found?!)](https;//the-cipher-vivek.vercel.app)
+
+
 ## <picture><img src = "https://i.ibb.co/tHSJ4LT/about-me.gif" width = 50px></picture> About me
 
 <picture> <img align="right" src= "https://i.ibb.co/xgxVqVh/Right-Side.gif" width = 250px></picture>
