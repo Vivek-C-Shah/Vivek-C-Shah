@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on Projects related to Website Development.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1oYbyCNPXZ2tLHiGLeC_S6N6eqQ5NAQ6K/view).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://the-cipher-vivek-resume.vercel.app/root/index.html).
   <br>
   <br>
   <p align="center">
