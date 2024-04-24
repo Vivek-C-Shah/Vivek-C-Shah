@@ -37,7 +37,6 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/VivekShah02"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://www.codechef.com/users/vivekshah02"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 	<a href="https://leetcode.com/vivekchiragshah2004/" ><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="Leetcode" width="60" height="60"></a>
 </p>
 
