@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/egonelbre/gophers/raw/master/.thumb/animation/2bit-sprite/demo.gif" alt="MasterHead">
+  <img src="./images/go-header.gif" alt="MasterHead">
 </div>
 
 
@@ -8,9 +8,9 @@
 [![Vivek Shah](https://readme-typing-svg.demolab.com/?lines=Error+999:+Code+Failed+Successfully!!;Error+404:+Error+not+found?!)](https;//the-cipher-vivek.me)
 
 
-## <picture><img src = "https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/vector/computer/music.png" width = 50px></picture> About me
+## <picture><img src = "./images/go-about.png" width = 50px></picture> About me
 
-<picture> <img align="right" src= "https://github.com/egonelbre/gophers/raw/master/.thumb/vector/fairy-tale/witch-learning.png" width = 250px></picture>
+<picture> <img align="right" src= "./images/go-right.png" width = 250px></picture>
 ![The-Cipher-Vivek](https://komarev.com/ghpvc/?username=Vivek-C-Shah&abbreviated=true&label=Vivek's+Profile+Views)
 <br><br>
 
