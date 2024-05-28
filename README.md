@@ -1,13 +1,16 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://the-cipher-vivek.me)
+<div align="center">
+  <img src="https://github.com/egonelbre/gophers/raw/master/.thumb/animation/2bit-sprite/demo.gif" alt="MasterHead">
+</div>
+
 
 <h1 align="center">Hi , I'm Vivek Shah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 [![Vivek Shah](https://readme-typing-svg.demolab.com/?lines=Error+999:+Code+Failed+Successfully!!;Error+404:+Error+not+found?!)](https;//the-cipher-vivek.me)
 
 
-## <picture><img src = "https://i.ibb.co/tHSJ4LT/about-me.gif" width = 50px></picture> About me
+## <picture><img src = "https://raw.githubusercontent.com/egonelbre/gophers/master/.thumb/vector/computer/music.png" width = 50px></picture> About me
 
-<picture> <img align="right" src= "https://i.ibb.co/xgxVqVh/Right-Side.gif" width = 250px></picture>
+<picture> <img align="right" src= "https://github.com/egonelbre/gophers/raw/master/.thumb/vector/fairy-tale/witch-learning.png" width = 250px></picture>
 ![The-Cipher-Vivek](https://komarev.com/ghpvc/?username=Vivek-C-Shah&abbreviated=true&label=Vivek's+Profile+Views)
 <br><br>
 
