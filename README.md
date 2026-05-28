@@ -1,134 +1,188 @@
 <div align="center">
-  <img src="./images/go-header.gif" alt="MasterHead">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Vivek%20Shah&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7DF9FF&center=true&vCenter=true&random=false&width=680&lines=Backend+Engineering+Lead+%40+AI+Startup;Designing+Systems+That+Scale+in+Production;GenAI+%7C+Distributed+Systems+%7C+MCP+Servers;Open+to+Remote+Roles+%26+Freelance+Work)](https://the-cipher-vivek.vercel.app)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Vivek-C-Shah&color=7DF9FF&style=flat-square&label=Profile+Views)](https://github.com/Vivek-C-Shah)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=7DF9FF)](https://the-cipher-vivek.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/the-cipher-vivek)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekchiragshah2004@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://the-cipher-vivek-resume.vercel.app/resume.pdf)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vivekchiragshah2004/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vivekchiragshah2004)
+
 </div>
 
+---
 
-<h1 align="center">Hi , I'm Vivek Shah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+Backend engineering lead at an AI-first startup — which is a strange place to be as a fresher, but here we are.
 
-[![Vivek Shah](https://readme-typing-svg.demolab.com/?lines=Error+999:+Code+Failed+Successfully!!;Error+404:+Error+not+found?!)](https;//the-cipher-vivek.me)
+I founded and built the backend from zero at [Pipeline](https://pipeline.ai): architecture, data models, API contracts, and production AI pipelines that real B2B customers depend on. I write Python and TypeScript the most, think in queues and services, and have a habit of caring too much about latency at 2am.
 
+Open to **remote backend/fullstack roles** and **freelance projects** — especially anything involving AI, distributed systems, or APIs that need to be both fast and reliable.
 
-## <picture><img src = "./images/go-about.png" width = 50px></picture> About me
+---
 
-<picture> <img align="right" src= "./images/go-right.png" width = 250px></picture>
-![The-Cipher-Vivek](https://komarev.com/ghpvc/?username=Vivek-C-Shah&abbreviated=true&label=Vivek's+Profile+Views)
-<br><br>
+## ⚡ What I'm building right now
 
-- 🔭 I’m currently working on MERN Stack.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Codechef`, `GeeksForGeeks`.
-- 👯 I’m looking to collaborate on Projects related to Website Development.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://the-cipher-vivek-resume.vercel.app/resume.pdf).
-  <br>
-  <br>
+- 🏗️ Leading backend architecture at Pipeline — microlithic services, Redis/BullMQ async queues, CRM integrations (HubSpot, Salesforce, Apollo)
+- 🤖 Building and shipping **MCP Servers** to extend AI agent capabilities in production
+- 🔬 LangChain + Pinecone-powered GenAI pipelines handling **500+ concurrent jobs**
 
-<!-- add only website id here -->
+---
 
-## 🤖 My Website
+## 🛠️ Stack
 
-<p align="center">
-  <a href="https://the-cipher-vivek.me/"><img src="https://img.shields.io/badge/Website-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139" alt="Website" height=50px, width=160px /></a>
-</p>
+<div align="center">
 
-## 🌐 Socials:
+**Languages**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/the-cipher-vivek) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shhh_vivek) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ShVivek25)
+[![Skills](https://skillicons.dev/icons?i=python,typescript,javascript,bash&theme=dark)](https://skillicons.dev)
 
-## <picture> <img src="" width=40> </picture> My Competitive Programming Profiles
+**Backend & Databases**
 
-<p align="center">
-  <a href="https://codeforces.com/profile/VivekShah02"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/vivekchiragshah2004/" ><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="Leetcode" width="60" height="60"></a>
-</p>
+[![Skills](https://skillicons.dev/icons?i=fastapi,nodejs,express,flask,redis,mongodb,firebase&theme=dark)](https://skillicons.dev)
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+**Frontend**
 
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,redux&theme=dark)](https://skillicons.dev)
 
+**DevOps & Observability**
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
+[![Skills](https://skillicons.dev/icons?i=docker,git,linux,aws,azure,grafana&theme=dark)](https://skillicons.dev)
+
 </div>
 
-</td><td valign="top" width="33%">
+<div align="center">
 
+`Pinecone` &nbsp;·&nbsp; `gRPC` &nbsp;·&nbsp; `Socket.io` &nbsp;·&nbsp; `Celery` &nbsp;·&nbsp; `BullMQ` &nbsp;·&nbsp; `Apache ZooKeeper` &nbsp;·&nbsp; `LangChain` &nbsp;·&nbsp; `Jest` &nbsp;·&nbsp; `Loki` &nbsp;·&nbsp; `Selenium` &nbsp;·&nbsp; `Zustand` &nbsp;·&nbsp; `Prisma`
 
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## 💼 Experience
 
+**Backend Engineering Lead** — Pipeline, TechStack &nbsp;`Jul 2024 – Present` &nbsp;`Remote`
+> - Founded and built the entire backend platform from scratch — architecture, data models, API contracts
+> - Improved system throughput by **80%** with Python-based services and API-first AI workflows
+> - Scaled async processing with Redis queues to handle **500+ concurrent jobs** for **100+ active users**
+> - Built LLM-powered agentic automation pipelines that increased B2B lead accuracy by **30%**
+> - Direct integrations with HubSpot, Salesforce, and Apollo to power real customer data pipelines
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
-<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_hadoop-icon.svg" alt="Hadoop" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+**Full-Stack Developer Intern** — Reverr &nbsp;`Apr 2024 – Jul 2024` &nbsp;`Remote`
+> - Built AI-powered workforce agents using TypeScript, OpenAI, and GenAI
+> - Integrated Meta API for WhatsApp and Pinecone for contextual vector search
+
+**SDE Intern** — Devobase &nbsp;`May 2024 – Jul 2024` &nbsp;`Remote`
+> - Built subscription and customer management platform for Zeiirman Trading
+> - Migrated **650+ user** database; integrated Stripe, TradingView API, and Discord bot
+> - Cut manual operational tasks by **70%** with automated workflows
+
+---
+
+## 🚀 Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 In-House Redis
+Open-source Redis CLI built from scratch in TypeScript. Implements stacks, queues, linked lists, streams, Pub/Sub messaging, RDBMS persistence, server replication (REPLCONF, PSYNC), and full transactional support.
+
+`TypeScript` `Systems Design` `Data Structures`
+
+[View Repo →](https://github.com/Vivek-C-Shah)
+
+</td>
+<td width="50%" valign="top">
+
+### ✏️ MathScribe — Smart Math Notes
+AI-powered solver for math and physics problems from hand-drawn sketches. Client-server architecture with image processing and LLMs for dynamic problem solving.
+
+`Python` `FastAPI` `LLM` `Image Processing`
+
+[View Repo →](https://github.com/Vivek-C-Shah)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🦅 Isolated Falcon
+Offline LLM tool that summarizes PDFs and enables contextual chat — no internet required. Achieved **Top 5 of 44,000 teams** at Smart India Hackathon Finals.
+
+`Python` `LLM Fine-tuning` `RAG` `Offline AI`
+
+[View Repo →](https://github.com/Vivek-C-Shah)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Mini Projects
+- **LMS gamified with AI** — AI-driven learning platform
+- **Student Assistance Bot** — Built for Rajasthan Government
+- **NodeNuker** — Dev-experience CLI tool
+- **Browser Session Manager** — Chrome extension
+- **Email Scheduling Service** — Async queue-based system
+
+</td>
+</tr>
+</table>
+
+> 💡 Most of my current production work is under NDA. The above is what I can talk about publicly.
+
+---
+
+## 🏆 Awards & Recognition
+
+| Award | Details |
+|-------|---------|
+| 🥇 **Winner** — IDE Bootcamp 2024 | Organized by AICTE & Ministry of Education, Govt. of India |
+| 🚀 **Startup Incubated** | PDEU IIC — selected for funding |
+| 🏅 **SIH Finalist** | Smart India Hackathon — Top 5 of 44,000 teams |
+| 🎯 **Finalist** | SSIP, Dotslash 6.0, Tic-Tech-Toe |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vivek-c-shah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vivek-c-shah&theme=tokyonight&hide_border=true" height="170"/>
+
 </div>
 
-</td></tr></table>  
+<div align="center">
 
-<br/>  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vivek-C-Shah&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Vivek-C-Shah)
 
-# 📊 GitHub Stats:
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=vivek-c-shah&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api?username=vivek-c-shah&show_icons=true&theme=dark)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivek-c-shah&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
-![](https://github-profile-trophy.vercel.app/?username=vivek-c-shah&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Snake](https://github.com/Vivek-C-Shah/Vivek-C-Shah/blob/output/github-contribution-grid-snake-dark.svg)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=radical)
-### 🔝 Top Contributed Repo
+</div>
 
-![](https://github-contributor-stats.vercel.app/api?username=vivek-c-shah&limit=6&theme=dark&count_private=true&show_icons=true&layout=compact&hide_border=false&hide_title=false&hide_rank=false&card_width=450)
+---
 
-## 🐍 A Snake Eating my Contributions Graph
+<div align="center">
 
-<p align = "center">
-	<img src = "https://gist.githubusercontent.com/Vivek-C-Shah/20c1560ce1676ad17eeb7c5dc9786dcc/raw/3d3dc438075a3b8834b9c25eef9ca9531ff669c9/GitSnake.svg" alt = "Snake Game"/>
-</p>
+**If you have an interesting backend or AI problem, I'm probably interested.**
+
+[![Reach Out](https://img.shields.io/badge/Reach%20Out-vivekchiragshah2004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekchiragshah2004@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+
+</div>
