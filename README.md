@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Vivek%20Shah&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7DF9FF&center=true&vCenter=true&random=false&width=680&lines=Backend+Engineering+Lead+%40+Pipeline+AI;Designing+Systems+That+Scale+in+Production;GenAI+%7C+Distributed+Systems+%7C+MCP+Servers;Open+to+Remote+Roles+%26+Freelance+Work)](https://the-cipher-vivek.vercel.app)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7DF9FF&center=true&vCenter=true&random=false&width=680&lines=Founding+Backend+Engineering+%40+Pipeline+AI;Designing+Systems+That+Scale+in+Production;GenAI+%7C+Distributed+Systems+%7C+MCP+Servers;Open+to+Remote+Roles+%26+Freelance+Work)](https://the-cipher-vivek.vercel.app)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Vivek-C-Shah&color=7DF9FF&style=flat-square&label=Profile+Views)](https://github.com/Vivek-C-Shah)
 
