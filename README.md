@@ -67,7 +67,7 @@ Open to **remote backend/fullstack roles** and **freelance projects** — especi
 
 ## 💼 Experience
 
-**Backend Engineering Lead** — Pipeline, TechStack &nbsp;`Jul 2024 – Present` &nbsp;`Remote`
+**Founding Backend Engineer** — Pipeline, TechStack &nbsp;`Jul 2024 – Present` &nbsp;`Remote`
 > - Founded and built the entire backend platform from scratch — architecture, data models, API contracts
 > - Improved system throughput by **80%** with Python-based services and API-first AI workflows
 > - Scaled async processing with Redis queues to handle **500+ concurrent jobs** for **100+ active users**
