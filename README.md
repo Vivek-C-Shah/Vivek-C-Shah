@@ -171,7 +171,7 @@ Offline LLM tool that summarizes PDFs and enables contextual chat — no interne
 
 <div align="center">
 
-![Snake](https://github.com/Vivek-C-Shah/Vivek-C-Shah/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake](https://github.com/Vivek-C-Shah/Vivek-C-Shah/blob/main/images/github-contribution-grid-snake.svg)
 
 </div>
 
